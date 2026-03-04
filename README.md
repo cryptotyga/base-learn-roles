@@ -29,3 +29,4 @@ A major hurdle the article points out is the "Sybil problem."
 If large transactions are restricted, a criminal could just split a $100 million transfer into 100,000 smaller $1,000 transactions to evade detection.
 To solve this, the blockchain industry still needs to develop a robust, permissionless, decentralized identity system to prevent users from spinning up thousands of fake accounts.
 Imposing Friction on Massive Transfers: For exceptionally large or high-risk transfers, the protocol could enforce built-in delays, require a ZK-based "proof of funds"
+(to prove the money didn't just come from a recent smart contract hack), or require the transaction to be encrypted in a way that allows a decentralized group of validators to decrypt it if absolutely necessary (threshold-based viewing keys).
