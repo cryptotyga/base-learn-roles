@@ -33,3 +33,4 @@ Imposing Friction on Massive Transfers: For exceptionally large or high-risk tra
 Emulating Physical Cash (Amount-Based Conditions): Moving $1,000 should be easy and completely private, much like handing someone cash.
 However, moving $100 million privately should require significant effort.
 Blocking Known Bad Actors: The protocol could simply refuse to accept deposits that originate from known, sanctioned addresses.
+If the funds aren't from a sanctioned source, they enter the privacy pool and can transact freely.
