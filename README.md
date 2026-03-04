@@ -14,3 +14,4 @@ Blockchains are global and shouldn't enforce one country's laws at the base laye
 Instead, Zero-Knowledge proofs allow individual applications and assets to enforce specific jurisdictional rules without ever collecting or revealing users' underlying personal data.
 Blockchains are global and shouldn't enforce one country's laws at the base layer.
 While privacy is essential for honest users, unconditional privacy shields criminals and makes it impossible for legitimate businesses to comply with localized regulations (like AML/KYC or sanctions).
+The Dilemma of Absolute Privacy
