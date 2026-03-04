@@ -26,3 +26,4 @@ he goal is simply to build a system that is better than the traditional financia
 Any system that provides true privacy for honest users will inevitably provide some cover for bad actors. However, perfection isn't the goal
 Miden acknowledges that 100% evasion-resistance is impossible.
 A major hurdle the article points out is the "Sybil problem."
+If large transactions are restricted, a criminal could just split a $100 million transfer into 100,000 smaller $1,000 transactions to evade detection.
