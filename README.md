@@ -10,3 +10,4 @@ For example, small transactions remain fully private (like physical cash),
 To deter illicit finance, the base protocol can impose conditional privacy based on "transaction risk
 Evasion-Resistance (Protocol Level)
 ZK-Enforced Compliance (Application Level)
+Blockchains are global and shouldn't enforce one country's laws at the base layer
