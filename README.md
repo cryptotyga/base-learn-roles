@@ -16,3 +16,4 @@ Blockchains are global and shouldn't enforce one country's laws at the base laye
 While privacy is essential for honest users, unconditional privacy shields criminals and makes it impossible for legitimate businesses to comply with localized regulations (like AML/KYC or sanctions).
 The Dilemma of Absolute Privacy
 this total transparency risks becoming a massive surveillance apparatus that can be exploited by malicious actors.
+The Transparency Problem: "Pseudo-anonymous" blockchains act as permanent public ledgers
