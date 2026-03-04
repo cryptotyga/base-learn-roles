@@ -15,3 +15,4 @@ Instead, Zero-Knowledge proofs allow individual applications and assets to enfor
 Blockchains are global and shouldn't enforce one country's laws at the base layer.
 While privacy is essential for honest users, unconditional privacy shields criminals and makes it impossible for legitimate businesses to comply with localized regulations (like AML/KYC or sanctions).
 The Dilemma of Absolute Privacy
+this total transparency risks becoming a massive surveillance apparatus that can be exploited by malicious actors.
