@@ -31,3 +31,4 @@ To solve this, the blockchain industry still needs to develop a robust, permissi
 Imposing Friction on Massive Transfers: For exceptionally large or high-risk transfers, the protocol could enforce built-in delays, require a ZK-based "proof of funds"
 (to prove the money didn't just come from a recent smart contract hack), or require the transaction to be encrypted in a way that allows a decentralized group of validators to decrypt it if absolutely necessary (threshold-based viewing keys).
 Emulating Physical Cash (Amount-Based Conditions): Moving $1,000 should be easy and completely private, much like handing someone cash.
+However, moving $100 million privately should require significant effort.
