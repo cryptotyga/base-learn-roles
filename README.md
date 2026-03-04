@@ -5,3 +5,4 @@ The future of blockchain isn't total transparency (surveillance) or absolute ano
 aiming to protect the vast majority of honest users while providing better evasion-resistance than the traditional financial system
 They are building a decentralized protocol that phases in privacy incrementally
 The "Practical Privacy" Philosophy: Miden rejects the extremes of total transparency and total anonymity.
+while massive transfers or funds originating from sanctioned addresses face restrictions, delays, or required proofs.
