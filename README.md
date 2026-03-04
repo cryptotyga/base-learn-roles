@@ -11,3 +11,4 @@ To deter illicit finance, the base protocol can impose conditional privacy based
 Evasion-Resistance (Protocol Level)
 ZK-Enforced Compliance (Application Level)
 Blockchains are global and shouldn't enforce one country's laws at the base layer
+Instead, Zero-Knowledge proofs allow individual applications and assets to enforce specific jurisdictional rules without ever collecting or revealing users' underlying personal data.
