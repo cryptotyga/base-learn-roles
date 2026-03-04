@@ -17,3 +17,4 @@ While privacy is essential for honest users, unconditional privacy shields crimi
 The Dilemma of Absolute Privacy
 this total transparency risks becoming a massive surveillance apparatus that can be exploited by malicious actors.
 The Transparency Problem: "Pseudo-anonymous" blockchains act as permanent public ledgers
+Ultimately, Miden aims to emulate the privacy model of physical cash: full privacy for everyday users and added friction for high-risk or massive transactions.
