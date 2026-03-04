@@ -6,3 +6,4 @@ aiming to protect the vast majority of honest users while providing better evasi
 They are building a decentralized protocol that phases in privacy incrementally
 The "Practical Privacy" Philosophy: Miden rejects the extremes of total transparency and total anonymity.
 while massive transfers or funds originating from sanctioned addresses face restrictions, delays, or required proofs.
+For example, small transactions remain fully private (like physical cash),
