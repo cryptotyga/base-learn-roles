@@ -19,3 +19,4 @@ this total transparency risks becoming a massive surveillance apparatus that can
 The Transparency Problem: "Pseudo-anonymous" blockchains act as permanent public ledgers
 Ultimately, Miden aims to emulate the privacy model of physical cash: full privacy for everyday users and added friction for high-risk or massive transactions.
 By utilizing Zero-Knowledge (ZK) proofs, blockchains can enforce regulatory compliance at the application level (allowing businesses to meet jurisdictional laws without exposing user data) while maintaining "evasion-resistance" at the protocol level (deterring bad actors by making privacy conditional based on transaction risk)
+To solve this, Miden proposes a middle-ground approach called "practical privacy.
