@@ -41,3 +41,4 @@ Low-Risk Transactions: Ordinary, everyday transactions are granted absolute priv
 Instead of treating every transaction exactly the same, the protocol evaluates the "risk" of a transaction to determine its level of privacy:
 In the context of Miden's "practical privacy," evasion-resistance refers to built-in, base-layer mechanisms designed to make it as difficult as possible for bad actors to use the network for illicit activities (like money laundering or hacking), without destroying privacy for everyday users.
 Here is a deeper dive into Evasion-Resistance at the Protocol Level, based on the article's breakdown:
+ZK-compliance allows businesses to follow the law perfectly while remaining completely blind to their users' actual personal data.
