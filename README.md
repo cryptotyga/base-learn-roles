@@ -9,3 +9,4 @@ while massive transfers or funds originating from sanctioned addresses face rest
 For example, small transactions remain fully private (like physical cash),
 To deter illicit finance, the base protocol can impose conditional privacy based on "transaction risk
 Evasion-Resistance (Protocol Level)
+ZK-Enforced Compliance (Application Level)
