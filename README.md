@@ -36,3 +36,4 @@ Blocking Known Bad Actors: The protocol could simply refuse to accept deposits t
 If the funds aren't from a sanctioned source, they enter the privacy pool and can transact freely.
 The article outlines several technical approaches a protocol could take to enforce this:
 How Evasion-Resistance Could Be Implemented
+High-Risk Transactions: Transactions that display characteristics common to illicit finance are subjected to additional constraints or friction.
