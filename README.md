@@ -48,3 +48,4 @@ If the base protocol isn't enforcing compliance, what is its job? According to t
 A U.S. business accepting crypto payments could require ZK-based AML/KYC proofs from its partners before a smart contract executes, while a business in another region might not require those checks.
 Circle could enforce U.S.-specific regulations for USDC, requiring anyone who holds it to pass specific ZK-checks. Meanwhile, a different stablecoin issuer in Dubai or South Korea could enforce a completely different set of ZK-checks tailored to their local laws.
 Because laws are local, compliance must be enforced by the specific applications or assets operating within those jurisdictions.
+A user can prove they meet specific income or accreditation requirements without revealing their bank statements.
