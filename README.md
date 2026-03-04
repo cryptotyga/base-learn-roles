@@ -21,3 +21,4 @@ Ultimately, Miden aims to emulate the privacy model of physical cash: full priva
 By utilizing Zero-Knowledge (ZK) proofs, blockchains can enforce regulatory compliance at the application level (allowing businesses to meet jurisdictional laws without exposing user data) while maintaining "evasion-resistance" at the protocol level (deterring bad actors by making privacy conditional based on transaction risk)
 To solve this, Miden proposes a middle-ground approach called "practical privacy.
 absolute privacy is also problematic because it complicates regulatory compliance for businesses and attracts illicit activities.
+The article argues that the current state of public blockchains—where all transactions are completely transparent and traceable—creates severe surveillance risks that will hinder long-term adoption. Conversely
