@@ -35,3 +35,4 @@ However, moving $100 million privately should require significant effort.
 Blocking Known Bad Actors: The protocol could simply refuse to accept deposits that originate from known, sanctioned addresses.
 If the funds aren't from a sanctioned source, they enter the privacy pool and can transact freely.
 The article outlines several technical approaches a protocol could take to enforce this:
+How Evasion-Resistance Could Be Implemented
