@@ -25,3 +25,4 @@ The article argues that the current state of public blockchains—where all tran
 he goal is simply to build a system that is better than the traditional financial system (where an estimated 5% of global GDP is currently laundered), protecting the privacy of the masses while severely bottlenecking large-scale illicit finance.
 Any system that provides true privacy for honest users will inevitably provide some cover for bad actors. However, perfection isn't the goal
 Miden acknowledges that 100% evasion-resistance is impossible.
+A major hurdle the article points out is the "Sybil problem."
