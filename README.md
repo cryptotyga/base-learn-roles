@@ -42,3 +42,4 @@ Instead of treating every transaction exactly the same, the protocol evaluates t
 In the context of Miden's "practical privacy," evasion-resistance refers to built-in, base-layer mechanisms designed to make it as difficult as possible for bad actors to use the network for illicit activities (like money laundering or hacking), without destroying privacy for everyday users.
 Here is a deeper dive into Evasion-Resistance at the Protocol Level, based on the article's breakdown:
 ZK-compliance allows businesses to follow the law perfectly while remaining completely blind to their users' actual personal data.
+In traditional finance, users must hand over sensitive personal data to third parties, creating massive "honeypots" of data that inevitably attract identity thieves and state-level hackers.
