@@ -43,3 +43,4 @@ In the context of Miden's "practical privacy," evasion-resistance refers to buil
 Here is a deeper dive into Evasion-Resistance at the Protocol Level, based on the article's breakdown:
 ZK-compliance allows businesses to follow the law perfectly while remaining completely blind to their users' actual personal data.
 In traditional finance, users must hand over sensitive personal data to third parties, creating massive "honeypots" of data that inevitably attract identity thieves and state-level hackers.
+The article highlights that ZK-enforced compliance is vastly superior to the traditional financial system's "audit-based compliance.
