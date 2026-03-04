@@ -23,3 +23,4 @@ To solve this, Miden proposes a middle-ground approach called "practical privacy
 absolute privacy is also problematic because it complicates regulatory compliance for businesses and attracts illicit activities.
 The article argues that the current state of public blockchains—where all transactions are completely transparent and traceable—creates severe surveillance risks that will hinder long-term adoption. Conversely
 he goal is simply to build a system that is better than the traditional financial system (where an estimated 5% of global GDP is currently laundered), protecting the privacy of the masses while severely bottlenecking large-scale illicit finance.
+Any system that provides true privacy for honest users will inevitably provide some cover for bad actors. However, perfection isn't the goal
