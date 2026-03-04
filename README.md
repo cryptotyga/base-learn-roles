@@ -3,3 +3,4 @@ Read the full breakdown by Miden: https://miden.xyz/blog/practical-privacy
 By leveraging ZK proofs, we can ensure application-level compliance and protocol-level evasion-resistance, protecting honest users while deterring bad actors.
 The future of blockchain isn't total transparency (surveillance) or absolute anonymity (compliance nightmare)—it’s Practical Privacy.
 aiming to protect the vast majority of honest users while providing better evasion-resistance than the traditional financial system
+They are building a decentralized protocol that phases in privacy incrementally
