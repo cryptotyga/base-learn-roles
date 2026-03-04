@@ -39,3 +39,4 @@ How Evasion-Resistance Could Be Implemented
 High-Risk Transactions: Transactions that display characteristics common to illicit finance are subjected to additional constraints or friction.
 Low-Risk Transactions: Ordinary, everyday transactions are granted absolute privacy.
 Instead of treating every transaction exactly the same, the protocol evaluates the "risk" of a transaction to determine its level of privacy:
+In the context of Miden's "practical privacy," evasion-resistance refers to built-in, base-layer mechanisms designed to make it as difficult as possible for bad actors to use the network for illicit activities (like money laundering or hacking), without destroying privacy for everyday users.
